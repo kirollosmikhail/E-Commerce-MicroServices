@@ -10,7 +10,7 @@ namespace Catalog.Core.Entities
     public class ProductType : BaseEntity
     {
         //[BsonElement("name")]
-        public string name { get; set; }
+        public string Name { get; set; }
 
 
     }

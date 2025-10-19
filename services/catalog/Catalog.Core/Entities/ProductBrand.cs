@@ -8,7 +8,7 @@ namespace Catalog.Core.Entities
 {
     public class ProductBrand :BaseEntity
     {
-        public string name { get; set; }
+        public string Name { get; set; }
 
 
 
